@@ -1,9 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.example.trydeep",
-    "sha256_cert_fingerprints":
-    ["65:0B:19:3B:9A:63:0E:51:6E:E5:43:92:35:C7:58:D7:4C:91:A4:DA:98:79:81:7E:F1:6C:8E:87:69:40:36:A1"]
-  }
+  "target" : { "namespace": "android_app", "package_name": "com.example.trydeep",
+               "sha256_cert_fingerprints": ["40:58:CF:35:7E:18:28:D2:21:A6:FF:EC:19:2F:AE:AB:0C:E1:D2:32:65:0D:4C:E4:42:39:97:70:FA:77:C6:28"] }
 }]
