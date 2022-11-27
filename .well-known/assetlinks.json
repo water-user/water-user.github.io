@@ -4,6 +4,7 @@
     "namespace": "android_app",
     "package_name": "io.water.hydration",
     "sha256_cert_fingerprints":
-    ["0C:EA:E7:8E:A0:54:69:88:36:6C:28:0E:D5:F7:BB:31:4B:A6:0A:0F:6C:5A:DC:A4:9A:24:2C:CE:66:BF:8E:CD"]
+    ["0C:EA:E7:8E:A0:54:69:88:36:6C:28:0E:D5:F7:BB:31:4B:A6:0A:0F:6C:5A:DC:A4:9A:24:2C:CE:66:BF:8E:CD",
+     "08:56:E0:9C:D5:CB:5C:38:6C:6C:DA:3E:4A:57:98:FC:1E:25:79:35:C5:34:48:0A:DF:3E:70:93:DB:3C:5D:31"]
   }
 }]
